@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 #Weather App
 
-![Screenshot (50)](https://github.com/user-attachments/assets/7de4fc59-03a0-462f-83be-bf3823b47345)
+![Screenshot (51)](https://github.com/user-attachments/assets/b7adc74a-df29-453d-812a-676eca352ce1)
+
